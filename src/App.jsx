@@ -1,4 +1,4 @@
-import Starter from "./tutorial/07-useRef/starter/01-useRef-basics.jsx";
+import Starter from "./tutorial/09-context-api/starter/Navbar.jsx";
 function App() {
   return (
     <div className="container">
